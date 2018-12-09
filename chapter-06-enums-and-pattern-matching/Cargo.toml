@@ -1,0 +1,6 @@
+[package]
+name = "chapter-06-enums-and-pattern-matching"
+version = "0.1.0"
+authors = ["Philippe Vinchon <p.vinchon@gmail.com>"]
+
+[dependencies]
